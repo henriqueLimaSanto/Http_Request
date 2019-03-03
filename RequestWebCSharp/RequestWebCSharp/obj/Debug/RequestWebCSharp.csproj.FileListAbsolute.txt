@@ -1,0 +1,9 @@
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\bin\Debug\RequestWebCSharp.exe.config
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.csprojResolveAssemblyReference.cache
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.Form1.resources
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.Properties.Resources.resources
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.csproj.GenerateResource.Cache
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\bin\Debug\RequestWebCSharp.exe
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\bin\Debug\RequestWebCSharp.pdb
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.exe
+c:\users\henrique\documents\visual studio 2013\Projects\RequestWebCSharp\RequestWebCSharp\obj\Debug\RequestWebCSharp.pdb
