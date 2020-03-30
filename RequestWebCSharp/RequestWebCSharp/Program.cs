@@ -9,7 +9,7 @@ namespace RequestWebCSharp
     static class Program
     {
         /// <summary>
-        /// The main Hnerique hteste entry point for the application.
+        /// The main Hnerique teste entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
